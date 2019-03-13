@@ -133,6 +133,7 @@ footer
   .btn-secondary.focus, .btn-secondary:focus { color: #fff; background-color: #2da32f; border-color: #2da32f; box-shadow: 0 0 0 1px rgb(45, 163, 47); }
   .btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle { color: #fff; background-color: #2da32f; border-color: #2da32f; }
 
+  .filter-form { background-color: #fff; padding-top: 50px; padding-bottom: 50PX; border: 1px solid #e6e5e7; margin-bottom: 20px; }
 
 @media only screen and (max-width:1200px)
   {
