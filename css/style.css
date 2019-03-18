@@ -192,7 +192,7 @@ legend { display: block; width: 100%; max-width: 100%; padding: 0; margin-bottom
 .nice-select.open .list { opacity: 1; pointer-events: auto; -webkit-transform: scale(1) translateY(0); -ms-transform: scale(1) translateY(0); transform: scale(1) translateY(0); }
 .nice-select.disabled { border-color: #ededed; color: #999; pointer-events: none; }
 .nice-select.disabled:after { border-color: #cccccc; }
-.nice-select.wide { width: 100%; }
+.nice-select.  { width: 100%; }
 .nice-select.wide .list { left: 0 !important; right: 0 !important; }
 .nice-select.right { float: right; }
 .nice-select.right .list { left: auto; right: 0; }
@@ -923,7 +923,7 @@ img.grayscale:hover { filter: grayscale(0); opacity: 1; transition-property: fil
 .st-tab { }
 .st-tab .nav-tabs { border-bottom: 2px solid #ffffff; }
 .nav-tabs .nav-item { }
-.st-tab .tab-content { padding: 50px 40px; background-color: #ffffff; border: 1px solid #ebebeb; border-color: #ebebeb; margin-top: -2px; }
+.st-tab .tab-content { padding: 50px 40px; background-color: #ffffff; border: 1px solid #ebebeb; border-color: #ebebeb; margin-top: -2px;}
 .st-tab .nav-tabs .nav-item.show .nav-link, .st-tab .nav-tabs .nav-link.active { color: #222528; background-color: #ffffff; border-color: #ebebeb #ebebeb #fff #ebebeb; }
 .st-tab .nav-tabs { margin-bottom: 0px; }
 .st-tab .nav-item .nav-link { display: block; padding: 16px 44px; border: 1px solid #ebebeb; border-radius: 0px; background-color: #eee; margin-bottom: 0px; color: #6f6d72; text-align: center; margin-right: 2px; }
